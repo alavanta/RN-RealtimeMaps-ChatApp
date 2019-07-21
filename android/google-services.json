@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260805781559",
+    "firebase_url": "https://realtime-tracker-dhieoit.firebaseio.com",
+    "project_id": "realtime-tracker-dhieoit",
+    "storage_bucket": "realtime-tracker-dhieoit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260805781559:android:af2757095f054836",
+        "android_client_info": {
+          "package_name": "com.alavtrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260805781559-tev1vp00qv4t40c7blv4oi2ibd5ov9b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6S0N8olqViZNuGpLLYoeSKJNbuWi6Iik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260805781559-tev1vp00qv4t40c7blv4oi2ibd5ov9b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
